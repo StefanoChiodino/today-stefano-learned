@@ -55,6 +55,7 @@ export const query = graphql`
       ){
       edges {
         node {
+          html
           fields {
             slug
             categorySlug
@@ -63,7 +64,6 @@ export const query = graphql`
             title
             date
             category
-            description
           }
         }
       }

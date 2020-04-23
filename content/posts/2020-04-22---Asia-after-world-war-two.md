@@ -7,7 +7,6 @@ slug: "asia-after-world-war-two"
 category: "History"
 tags:
   - "History"
-description: "After the Second World War forecasts were that Asia was going to be a trouble area because it was poorer that Africa and without the same amount of resources. Turned out that labour force and education can overcome that."
 ---
 
 After the Second World War forecasts were that Asia was going to be a trouble area because it was poorer that Africa and without the same amount of resources. Turned out that labour force and education can overcome that.

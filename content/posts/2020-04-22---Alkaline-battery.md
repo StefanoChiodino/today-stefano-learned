@@ -8,7 +8,6 @@ category: "Environment"
 tags:
   - "Environment"
   - "Electricity"
-description: "To produce an Amazon basic alkaline battery may require 100 times more energy than what the battery can actually produce"
 ---
 
 To produce an Amazon basic alkaline battery may require 100 times more energy than what the battery can actually produce.

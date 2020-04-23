@@ -21,7 +21,6 @@ module.exports = {
           },
           frontmatter: {
             date: '2016-09-01',
-            description: 'test_0',
             category: 'test',
             title: 'test_0'
           }
@@ -35,7 +34,6 @@ module.exports = {
           },
           frontmatter: {
             date: '2016-09-01',
-            description: 'test_1',
             category: 'test',
             title: 'test_1'
           }

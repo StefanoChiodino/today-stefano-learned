@@ -55,13 +55,13 @@ export const query = graphql`
       ){
       edges {
         node {
+          html
           fields {
             categorySlug
             slug
           }
           frontmatter {
             date
-            description
             category
             title
           }

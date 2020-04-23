@@ -7,7 +7,6 @@ slug: "tasks-are-performed-better-in-silence"
 category: "Productivity"
 tags:
   - "Productivity"
-description: "Tasks are performed best in total silence. The type of music or noise has no impact on the detrimental effect."
 ---
 
 Tasks are performed best in total silence. The type of music or noise has no impact on the detrimental effect.

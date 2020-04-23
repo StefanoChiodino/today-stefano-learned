@@ -8,7 +8,6 @@ category: "Psychology"
 tags:
   - "Psychology"
   - "Probability"
-description: "Conjunction fallacy occurs when it is assumed that specific conditions are more probable than a single general one."
 ---
 
 Conjunction fallacy occurs when it is assumed that specific conditions are more probable than a single general one.
