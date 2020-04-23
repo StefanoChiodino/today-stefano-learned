@@ -21,12 +21,12 @@ module.exports = {
     },
   ],
   author: {
-    name: 'Stefano',
+    name: 'Today Stefano Learned',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '',
-      facebook: '#',
+      facebook: '',
       telegram: '#',
       twitter: '#',
       github: '#',
