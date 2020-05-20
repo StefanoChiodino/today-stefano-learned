@@ -7,7 +7,7 @@ type Props = {
   author: {
     name: string,
     bio: string,
-    photo: string
+    // photo: string
   },
   isIndex: ?boolean
 };
