@@ -6,7 +6,7 @@ import styles from './Author.module.scss';
 type Props = {
   author: {
     name: string,
-    bio: string,
+    // bio: string,
     // photo: string
   },
   isIndex: ?boolean

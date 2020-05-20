@@ -8,7 +8,7 @@ describe('Author', () => {
     author: {
       name: 'test',
       // photo: '/photo.jpg',
-      bio: 'test'
+      // bio: 'test'
     },
     isIndex: false
   };
