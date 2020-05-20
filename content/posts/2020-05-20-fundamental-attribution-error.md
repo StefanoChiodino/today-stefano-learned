@@ -12,3 +12,7 @@ tags:
   - psychology
 ---
 The Fundamental attribution error is the tendency for people to attribute far too much importance to personality rather than situations.
+
+
+
+Source: Coursera - Yale's Introduction to Psychology <https://www.coursera.org/learn/introduction-psychology/lecture/Urm4G/attribution>
