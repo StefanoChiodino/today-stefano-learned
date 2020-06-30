@@ -9,7 +9,7 @@ description: >-
   too much importance to personality rather than situations.
 category: Psychology
 tags:
-  - psychology
+  - Psychology
 ---
 The Fundamental attribution error is the tendency for people to attribute far too much importance to personality rather than situations.
 
