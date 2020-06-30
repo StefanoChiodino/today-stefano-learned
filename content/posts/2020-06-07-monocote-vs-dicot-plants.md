@@ -14,7 +14,8 @@ description: >-
   floral parts usually arranged in multiple of four or five.
 category: Plants
 tags:
-  - plants biology
+  - plants
+  - biology
 ---
 Dicots and monocots differs on several more features other than the one that gives them their names: the number of cotyledon (leafs) in their embryo. Monocots have parallel veins in their leafs, which usually means elongate leafs as well,  complexly arranged vascular system, fibrous roots, and floral parts usually in multiple of three. Dicots have a network of branching veins, a vascular system arranged in rings, a taproot system (a long main root), and floral parts usually arranged in multiple of four or five.
 
