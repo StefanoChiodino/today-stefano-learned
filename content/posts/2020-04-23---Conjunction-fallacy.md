@@ -1,13 +1,13 @@
 ---
 title: Conjuntion fallacy
-date: "2020-04-23T23:46:37.121Z"
-template: "post"
+date: 2020-04-23T23:46:37.121Z
+template: post
 draft: false
-slug: "conjuction-fallacy"
-category: "Psychology"
+slug: conjuction-fallacy
+category: Today I Learned
 tags:
-  - "Psychology"
-  - "Probability"
+  - Psychology
+  - Probability
 ---
 
 Conjunction fallacy occurs when it is assumed that specific conditions are more probable than a single general one.

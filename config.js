@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'What I learned',
+      label: 'Blog',
       path: '/'
     },
     {
@@ -21,11 +21,11 @@ module.exports = {
     },
   ],
   author: {
-    name: 'Today Stefano Learned',
+    name: 'Stefano\'s Blog',
     // photo: '/photo.jpg',
     // bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: '',
+      email: 'it\'s my surname and name at gmail.com',
       facebook: '',
       telegram: '#',
       twitter: '#',

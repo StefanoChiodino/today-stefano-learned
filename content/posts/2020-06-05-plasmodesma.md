@@ -4,12 +4,10 @@ title: Plasmodesma
 slug: plasmodesma
 draft: false
 date: 2020-06-05T22:50:16.460Z
-description: >-
-  Plasmodesma is a narrow thread of cytoplasm that passes through the cell walls
-  of adjacent plant cells and allows communication between them.
-category: Plants
+category: Today I Learned
 tags:
-  - science plants
+  - Science
+  - Plants
 ---
 Plasmodesma is a narrow thread of cytoplasm that passes through the cell walls of adjacent plant cells and allows communication between them.
 
