@@ -37,11 +37,13 @@ export const query = graphql`
       fields {
         slug
         tagSlugs
+        categorySlug
       }
       frontmatter {
         date
         tags
         title
+        category
       }
     }
   }
