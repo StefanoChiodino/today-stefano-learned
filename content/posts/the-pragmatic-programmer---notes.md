@@ -520,6 +520,3 @@ Throughout the book you are prompted to visit other parts to expand on an topic.
 	* Come to understand your users’ expectations, then deliver just that little bit more.
 70. Sign Your Work
 	* Craftsmen of an earlier age were proud to sign their work. You should be, too.
-
-{{< exLink "Buy The Pragmatic Programmer on Amazon." "https://amzn.to/2IPnJ4x" >}}.
-

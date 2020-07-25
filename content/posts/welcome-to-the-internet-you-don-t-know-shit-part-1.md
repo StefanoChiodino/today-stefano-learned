@@ -21,21 +21,24 @@ So....we started taking elements off the page, until it stopped.
 
 Turns out that `style="background-image: url('');"` it's interpreted as "the URL of the background image is an empty string, relative to the current URL".
 
-You can double check this by opening your tools and going to {{< exLink "this example" "/example/empty-background-image-url.html" >}}.
+You can double check this by opening your tools and going to [this example](/example/empty-background-image-url.html).
 
-{{< figure title="Initiator with javascript" src="/images/initiator-with-js.png" >}}
-{{< figure title="Initiator without javascript" src="/images/initiator-without-js.png" >}}
+Initiator with javascript
+![Initiator with javascript](/images/initiator-with-js.png)
+
+Initiator without javascript
+![Initiator without javascript](/images/initiator-without-js.png)
 
 What happened is that I don't enforce uploading images in the CMS, but if none is selected the URL is just null or empty. Writing `style="background-image: url('@(Model.Image?.Url)');"` is incorrect, the rule should not be in the style attribute if the URL is blank.
 
 The solution is to write a variable for the content of the style attribute, something like:
 
-{{< highlight csharp >}}
+```c#
 var imageUrl = Model.Image?.Url;
 var style = imageUrl == null
     : string.Empty
     ? $"background-image: url('{imageUrl}');"
-{{< / highlight >}}
+```
 
 ## Reference
 https://bugzilla.mozilla.org/show_bug.cgi?id=473528

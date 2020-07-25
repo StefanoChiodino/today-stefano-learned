@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://stefano.chiodino.uk',
   pathPrefix: '/',
-  title: 'Today Stefano Learned',
-  subtitle: 'A collection of all the things I learned. As I learned them.',
-  copyright: 'Do whatever.',
+  title: 'Stefano\'s Space',
+  subtitle: 'Rare blog posts and some today-I-learned pills.',
+  copyright: 'If you use my stuff mention me.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 8,
   googleAnalyticsId: '',
   useKatex: false,
   menu: [
@@ -15,13 +15,13 @@ module.exports = {
       label: 'Blog',
       path: '/'
     },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
+    // {
+    //   label: 'About me',
+    //   path: '/pages/about'
+    // },
   ],
   author: {
-    name: 'Stefano\'s Blog',
+    name: 'Stefano\'s Space',
     // photo: '/photo.jpg',
     // bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
