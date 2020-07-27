@@ -35,14 +35,12 @@ const Post = ({ post }: Props) => {
         <Meta date={date} />
         {category
           && categorySlug
-          &&
-          <div>Category
+          && <div>Category
             <Tags tags={[category]} tagSlugs={[categorySlug]} />
           </div>}
         {tags
           && tagSlugs
-          &&
-          <div>Tags
+          && <div>Tags
             <Tags tags={tags} tagSlugs={tagSlugs} />
           </div>}
         <Author />
