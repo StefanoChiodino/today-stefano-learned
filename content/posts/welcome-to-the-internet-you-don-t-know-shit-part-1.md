@@ -1,13 +1,13 @@
 ---
 template: post
+title: "Welcome to the Internet: You Don't Know Shit, Part 1"
+slug: welcome-to-the-internet-you-don-t-know-shit-part-1
+draft: false
 date: 2016-11-25T17:59:24+00:00
 description: What happens if the CSS background-image URL is empty?
-draft: false
-slug: welcome-to-the-internet-you-don-t-know-shit-part-1
-tags: 
+category: Programming
+tags:
   - CMS
-title: "Welcome to the Internet: You Don't Know Shit, Part 1"
-
 ---
 I was investigating if my controller was handling correctly post requests, when I noticed that it was being called twice.
 
