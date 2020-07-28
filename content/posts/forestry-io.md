@@ -1,13 +1,13 @@
 ---
 template: post
+title: Forestry.io
+slug: forestry-io
+draft: false
 date: 2016-10-09T06:01:00+00:00
 description: A review of Forestry.io for Hugo websites
-draft: false
-slug: forestry-io
-tags: 
+category: Programming
+tags:
   - Hugo
-title: Forestry.io
-
 ---
 A reader of [my post on how I use Hugo](/posts/hugo-write-deploy-host) pointed out in the comments that it's now possible to write online Hugo posts from [Forestry.io](https://forestry.io). I've been playing with it and I'm currently using it to write this very post.
 
