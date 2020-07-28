@@ -1,7 +1,7 @@
 ---
 template: post
-title: monocote vs dicot plants
-slug: monocote vs dicot plants
+title: Monocote vs dicot plants
+slug: monocote-vs-dicot-plants
 draft: false
 date: 2020-06-07T19:49:56.961Z
 category: Today I Learned
