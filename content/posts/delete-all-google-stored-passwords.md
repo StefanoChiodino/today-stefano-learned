@@ -1,15 +1,16 @@
 ---
 template: post
-date: 2016-07-27T22:02:00+00:00
-description: How to delete all the passwords stored in Google passwords https://passwords.google.com
-draft: false
+title: Delete all google stored passwords
 slug: delete-google-passwords
-tags: 
+draft: false
+date: 2016-07-27T22:02:00+00:00
+description: How to delete all the passwords stored in Google passwords
+  https://passwords.google.com
+category: Programming
+tags:
   - Google
   - Security
   - Password
-title: Delete all google stored passwords
-
 ---
 
 I was trying to delete all the passwords stored in google at [Google passwords](https://passwords.google.com), way too many to do manually!
