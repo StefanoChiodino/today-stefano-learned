@@ -7,7 +7,7 @@ date: 2020-07-30T14:21:28.954Z
 description: The Redundant Acronym Syndrome
 category: Today I Learned
 tags:
-  - Psychology
+  - ""
 ---
 I recall a friend complaining about "PAT test", because PAT already stands for Portable Appliance Test, so adding test at the end was redundant.
 
