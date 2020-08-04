@@ -5,13 +5,10 @@ admin_path: "/forestry"
 webhook_url: 
 sections:
 - type: directory
-  path: content/posts
-  label: Posts
+  path: content
+  label: Content
   create: all
   match: "**/*"
-- type: document
-  path: content
-  label: Document
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
