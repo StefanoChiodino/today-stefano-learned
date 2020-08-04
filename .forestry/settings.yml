@@ -5,7 +5,7 @@ admin_path: "/forestry"
 webhook_url: 
 sections:
 - type: document
-  path: ''
+  path: content
   label: Document
 upload_dir: uploads
 public_path: "/uploads"
