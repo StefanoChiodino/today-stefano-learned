@@ -29,4 +29,4 @@ tags:
 * use an active voice: "Bob did X", not "X was done by Bob". Passive voice is longer, less clear, and less emphatic. But it's acceptable in scientific papers because it sounds more impartial.
 * Limit verbs "to be" and "to have". Including forms is, am, are, were, was, will be, have, has, had, have been and more.
 
-Ref https://www.coursera.org/learn/writing-for-business/
+Ref: [](https://www.coursera.org/learn/writing-for-business/)[Business Writing course on Coursera](https://www.coursera.org/learn/writing-for-business/)
