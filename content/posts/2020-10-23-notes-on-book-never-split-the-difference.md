@@ -6,6 +6,7 @@ draft: false
 date: 2020-10-23T21:36:25.845Z
 description: My notes on the book Never Split the Difference by Christopher Voss
   and Tahl Raz
+category: Books
 tags:
   - Books
   - Psychology
