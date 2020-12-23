@@ -10,7 +10,7 @@ tags:
 - Programming
 
 ---
-One day Chris, head of devops, gave me a tour of our setup. He proudly pointed out to me how they prefer to write arguments using the long version, like `--allow` instead of `-a`. This is to make it easier to understand the system, and thus maintain it. It made so much sense: decrease the cognitive load, increase productivity.
+One day Chris, head of devops, gave me a tour of our setup. He proudly pointed out to me how they prefer to write arguments using the long version, like `--allow` instead of `-a`. This is to make it easier to understand the system, and thus maintaing it. It made so much sense: decrease the cognitive load, increase productivity.
 
 Then I started working for the NHS, the biggest employer in the UK, and 5th in the world, just after McDonald's. Seems like in such a big company nobody has time to spell things out, and after more than a year I'm still struggling to catch up on some acronyms. I don't even know what some acronyms that colleagues mention daily stand for, even tho I know what people are talking about.
 
