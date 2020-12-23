@@ -1,26 +1,23 @@
 ---
 template: post
-title: TMA - Too Many Acronyms
-slug: tma-too-many-acronyms
+title: 'Acronyms: public enemy number one'
+slug: acronyms-public-enemy-number-one
 draft: true
-date: 2020-07-27T20:32:04.516Z
+date: 2020-12-23T21:32:04Z
 description: We need to fight the urge to abbreviate everything!
 category: Programming
 tags:
-  - Programming
+- Programming
+
 ---
-TLDR: Acronyms are not evil, but the inclination of abbreviating everything all the time should be curbed, especially when writing things down in more formal documents or for the benefits of junior team members of the team.
+One day Chris, head of devops, gave me a tour of our setup. He proudly pointed out to me how they prefer to write arguments using the long version, like `--allow` instead of `-a`. This is to make it easier to understand the system, and thus maintain it. It made so much sense: decrease the cognitive load, increase productivity.
 
-<hr>
+Then I started working for the NHS, the biggest employer in the UK, and 5th in the world, just after McDonald's. Seems like in such a big company nobody has time to spell things out, so here are some acronyms I've come across:
 
-AHAS, SME, PO, CDS, ECDS, APC, EM, OP, EC, NCC, PCC, DSCRO, AE, BAU, BA, CQUIN, CC, DAE, DDC, DLP, DSP, DPS, GPDC, GDPPR, HES, HSCIC, MESH, MPS, NHSE, NHSD, NTS, PbR, PHE, RFA, RFC, SEM, SUS, S&T, VMOST.
+AHAS, SME, PO, CDS, ECDS, APC, EM, OP, EC, NCC, PCC, DSCRO, AE, BAU, BA, CQUIN, CC, DAE, DDC, DLP, DSP, DPS, GPDC, GDPPR, HES, HSCIC, MESH, MPS, NHSE, NHSD, NTS, PbR, PHE, RFA, RFC, SEM, SUS, S&T, VMOST...
 
-These are some of the acronyms that I've come across working at NHS Digital in less than a year. As I gain confidence in the domain knowledge I find myself using them more and more, and even tempted to create some myself! But I still vividly remember when I was a newbie and most of these acronyms were a barrier.
+Good sense dictates you should call your variable `pageTitle`, rather than `pt`. So why is it ok to abbreviate `GPES Data for Pandemic Planning and Research` to GDPPR, in a nested acronym?
 
-The more I work in the computer software industry the more I realise cognitive load is the name of the game. Yet we decide to save ourselves what may be one second a day by abbreviating a few words, at the cost of raising a wall for new employees.
+I took a business writing course recently, and one of the key points was that you have to write for your audience. Look, I get it. I review a lot of `merge requests`, and the temptation to call them `MR` is strong, but think about your audience. Are you in a group chat with your Product Owner and the New Starter? Do the right thing and make it easy for everybody.
 
-Good sense dictate you call your variable `pageTitle`, rather than calling it `pt`. Yet we are ok to abbreviate very complicated groups of words out of our programs source code as if we still had screen accommodating just 80 characters per line.
-
-I can recall the head of DevOps of my previous company telling about how the scripts were setup using verbose flags like `--allow` instead of `-a`, so that they could be picked up by anybody more easily.
-
-Believe it or not I've recently came across GDPPR which, beside sounding terribly like GDPR, it's also plagued by by being a recursive acronym (GPES Data for Pandemic Planning and Research).
+When you are writing to your colleague in private use all the acronyms you are confident they know. Just don't get used to it.
