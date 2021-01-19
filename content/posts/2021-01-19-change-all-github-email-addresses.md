@@ -2,7 +2,7 @@
 template: post
 title: Change all Github email addresses
 slug: change-all-github-email-addresses
-draft: true
+draft: false
 date: 2021-01-19T17:47:05.782Z
 category: programming
 tags:
