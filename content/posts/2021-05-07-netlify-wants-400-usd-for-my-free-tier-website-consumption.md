@@ -1,15 +1,15 @@
 ---
 title: Netlify wants 400 USD for my free tier website consumption
-slug: ''
+slug: 'netlify-wants-400-usd-for-my-free-tier-website-consumption'
 draft: true
 date: 2021-06-07T00:00:00+01:00
 category: programming
 tags: []
 
 ---
-I've been an happy Netlify user for a few years. Personal use, nothing fancy, but I've found their service complement very well static websites. So, in addition to my personal website I've decided to host there a pet project with the rivetting title [https://github.com/StefanoChiodino/analytics-bypassing-adblockers](Analytics bypassing adblockers). This was to show the fundamental weakness of most adblockers, and how a simple reverse proxy can punch straight through most of them. I've now moved this to [github pages](https://stefanochiodino.github.io/analytics-bypassing-adblockers/) for now, but the reverse proxy mechanism is broken.
+I've been an happy Netlify user for a few years. Personal use, nothing fancy, but I've found their service complement very well static websites. So, in addition to my personal website I've decided to host there a pet project with the rivetting title [Analytics bypassing adblockers](https://github.com/StefanoChiodino/analytics-bypassing-adblockers). This was to show the fundamental weakness of most adblockers, and how a simple reverse proxy can punch straight through most of them. I've now moved this to [github pages](https://stefanochiodino.github.io/analytics-bypassing-adblockers/) for now, but the reverse proxy mechanism is broken.
 
-Just playing around with the reverso proxy concept, I found out Netlify supports this very well, and so I set this up [https://github.com/StefanoChiodino/analytics-bypassing-adblockers/blob/master/netlify.toml](this way).
+Just playing around with the reverso proxy concept, I found out Netlify supports this very well, and so I set this up [this way](https://github.com/StefanoChiodino/analytics-bypassing-adblockers/blob/master/netlify.toml).
 
 ```toml
 # Reverse proxy anything after "/proxy/".
