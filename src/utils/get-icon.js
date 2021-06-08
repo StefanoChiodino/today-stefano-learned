@@ -50,12 +50,9 @@ const getIcon = (name: string) => {
     case 'soundcloud':
       icon = ICONS.SOUNDCLOUD;
       break;
-<<<<<<< HEAD
-=======
     case 'medium':
       icon = ICONS.MEDIUM;
       break;
->>>>>>> lumen/master
     default:
       icon = {};
       break;
