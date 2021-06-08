@@ -12,6 +12,7 @@ module.exports = {
     },
     frontmatter: {
       date: '2016-09-01',
+      description: 'test',
       title: 'test',
       tags: [
         'test_0',

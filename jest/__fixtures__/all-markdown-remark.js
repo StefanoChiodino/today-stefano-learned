@@ -21,6 +21,7 @@ module.exports = {
           },
           frontmatter: {
             date: '2016-09-01',
+            description: 'test_0',
             category: 'test',
             title: 'test_0'
           }
@@ -34,6 +35,10 @@ module.exports = {
           },
           frontmatter: {
             date: '2016-09-01',
+<<<<<<< HEAD
+=======
+            description: 'test_1',
+>>>>>>> lumen/master
             category: 'test',
             title: 'test_1'
           }

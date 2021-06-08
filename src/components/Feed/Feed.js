@@ -1,6 +1,9 @@
 // @flow strict
 import React from 'react';
+<<<<<<< HEAD
 import moment from 'moment';
+=======
+>>>>>>> lumen/master
 import { Link } from 'gatsby';
 import type { Edges } from '../../types';
 import styles from './Feed.module.scss';
