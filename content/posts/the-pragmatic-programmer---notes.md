@@ -8,7 +8,7 @@ description: My notes from the book "The Pragmatic Programmer" by Andrew Hunt
   and David Thomas
 category: Programming
 tags:
-  - Book
+  - Books
   - Programming
 ---
 Written by Andrew Hunt and David Thomas. Originally published October 1999. 25th printing, 10th Feb version. 320 Pages. ISBN: 978-0-2016-1622-4. Publisher: Addison-Wesley.
